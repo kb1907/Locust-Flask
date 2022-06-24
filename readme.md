@@ -11,6 +11,10 @@ Locust-Flask-Github Actions folder for MLOPS 2022 Data Scientist Trainees and DS
 ![2](https://user-images.githubusercontent.com/51021282/175612594-eece4468-f5bf-407d-8f3f-3e5729cb0f71.png)
 
 
+
+![3](https://user-images.githubusercontent.com/51021282/175612737-830373cc-ad88-48f8-af91-698b8411ef79.png)
+
+
 ### New environment
 
 ```bash
@@ -59,6 +63,6 @@ git push -u origin main
 
 ### Run `make all` to install python libraries, lint project, run tests.
 
-### Run `locust` to see laod test
+### Run `locust` to see load test
 
 
