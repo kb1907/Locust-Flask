@@ -1,3 +1,5 @@
+[![Locust-Flask with Github Actions](https://github.com/kb1907/Locust-Flask/actions/workflows/main.yaml/badge.svg)](https://github.com/kb1907/Locust-Flask/actions/workflows/main.yaml)
+
 # Flask-Locust-Github-Actions
 
 Locust-Flask-Github Actions folder for MLOPS 2022 Data Scientist Trainees and DS Aspirants.
