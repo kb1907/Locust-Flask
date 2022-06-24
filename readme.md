@@ -4,6 +4,11 @@
 
 Locust-Flask-Github Actions folder for MLOPS 2022 Data Scientist Trainees and DS Aspirants.
 
+![1](https://user-images.githubusercontent.com/51021282/175612530-a24a9066-01c0-4e2c-b31d-3e0a3b1a5a59.png)
+
+
+
+
 ### New environment
 
 ```bash
